@@ -17,6 +17,5 @@ Jump Point Search
 
   - 장애물이 있을 시 Jump Point를 생성 후 추가.
 
-
-#https://github.com/fgenesis/jps
-알고리즘 분석
+#Ref
+  - https://github.com/fgenesis/jps
